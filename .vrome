@@ -1,8 +1,9 @@
 map ; :
 map <C-c> <Esc>
+imap <C-c> <Esc>
 map , G
-unmap <C-n>
-unmap <C-p>
-unmap <M-n>
+" unmap <C-n>
+" unmap <C-p>
+" unmap <M-n>
 map <M-,> gT
 map <M-.> gt
