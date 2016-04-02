@@ -1,5 +1,5 @@
 map ; :
-map <Esc> <C-c>
+map <C-c> <Esc>
 map , G
 unmap <C-n>
 unmap <C-p>
