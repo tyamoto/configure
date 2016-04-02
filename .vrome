@@ -1,7 +1,8 @@
+" Begin Online Vromerc generated
 map ; :
 unmap <Esc>
-map <C-c> <C-[>
-imap <C-c> <C-[>
+" map <C-c> <C-[>
+" imap <C-c> <C-[>
 map , G
 " unmap <C-n>
 " unmap <C-p>
