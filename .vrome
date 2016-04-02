@@ -1,0 +1,8 @@
+map ; :
+map <Esc> <C-c>
+map , G
+unmap <C-n>
+unmap <C-p>
+unmap <M-n>
+map <M-n> gt
+map <M-p> gT
