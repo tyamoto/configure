@@ -1,6 +1,7 @@
 map ; :
 unmap <Esc>
 unmap <C-a>
+unmap <M-a>
 " map <C-c> <C-[>
 " imap <C-c> <C-[>
 map , G
